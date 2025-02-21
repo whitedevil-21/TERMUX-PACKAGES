@@ -10,11 +10,11 @@ THIS TOOL WILL INSTALL ALL BASIC PACKAGES IN YOUR TERMUX AUTOMATICALLY AND IT WI
   <LI>$ apt upgrade</LI>
   <LI>$ apt install git</LI>
   <LI>$ git clone https://github.com/whitedevil-21/TERMUX-PACKAGES.git</LI>
-  <LI>$ cd termux-package-basic</LI>
+  <LI>$ cd TERMUX-PACKAGES</LI>
   <LI>$ ls</LI>
-  <LI>$ chmod +x * termux-package-basic</LI>
+  <LI>$ chmod +x * termux-package.sh</LI>
   <LI>$ ls</LI>
-  <LI>$ bash termux-package-basic.sh</LI>
+  <LI>$ bash termux-package.sh</LI>
 </UL>
 <h4>All Is Done</h4>
 
